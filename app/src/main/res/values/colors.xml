@@ -1,0 +1,7 @@
+<resources>
+    <!-- Palette inspirée DGFiP : bleu profond + or -->
+    <color name="ic_bg">#00296B</color>
+    <color name="ic_fg">#FFFFFF</color>
+    <color name="ic_accent">#FFD500</color>
+    <color name="md_seed">#00296B</color>
+</resources>

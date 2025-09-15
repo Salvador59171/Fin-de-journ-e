@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fin de journée</string>
+    <string name="subtitle">Indique ton heure d'arrivée, je calcule l'heure à laquelle tu peux partir (+8h27).</string>
+    <string name="arrival_label">Heure d'arrivée</string>
+    <string name="rule_label">Règle : arrivée + 8h27</string>
+    <string name="departure_result">Tu peux partir à %1$s</string>
+    <string name="footer_hint">Astuce : on mémorise la dernière heure saisie</string>
+</resources>
